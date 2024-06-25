@@ -1,0 +1,6 @@
+path: /content/gdrive/My Drive/EB/data
+train: /content/gdrive/My Drive/EB/data/label/train 
+val: /content/gdrive/My Drive/EB/data/label/val  
+
+nc: 1
+names: ['ear']
